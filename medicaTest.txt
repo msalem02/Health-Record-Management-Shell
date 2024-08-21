@@ -1,0 +1,3 @@
+Hgb , Range: >13.8,<17.2; Unit: g/dL
+LDL , Range: <100; Unit: mg/dL
+Triglycerides, Range: >50,<150; Unit: mg/dL
